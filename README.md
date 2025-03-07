@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ch-R999
 - 👀 I’m interested in "AI in Security" 
-- 🌱 I’m currently learning "Python Essentials"
-- 💞️ I’m looking to collaborate on "Python Project helping in real life"
-- 📫 How to reach me ...
+- 🌱 I’m currently learning "Malware Essentials for ML models"
+- 💞️ I’m looking to collaborate on "Python Project helping in real life Cyber problems"
+- 📫 Message me here only for Work Collaborations.
 
 <!---
 ch-R999/ch-R999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
